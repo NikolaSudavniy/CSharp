@@ -1,0 +1,8 @@
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\bin\Debug\WinForms_04_StaticSquare.exe.config
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\bin\Debug\WinForms_04_StaticSquare.exe
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\bin\Debug\WinForms_04_StaticSquare.pdb
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\obj\Debug\WinForms_04_StaticSquare.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\obj\Debug\WinForms_04_StaticSquare.Properties.Resources.resources
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\obj\Debug\WinForms_04_StaticSquare.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\obj\Debug\WinForms_04_StaticSquare.exe
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_04_StaticSquare\obj\Debug\WinForms_04_StaticSquare.pdb

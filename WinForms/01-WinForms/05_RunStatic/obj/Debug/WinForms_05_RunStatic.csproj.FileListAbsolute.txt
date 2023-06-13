@@ -1,0 +1,9 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\bin\Debug\WinForms_05_RunStatic.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\bin\Debug\WinForms_05_RunStatic.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\bin\Debug\WinForms_05_RunStatic.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\obj\Debug\WinForms_05_RunStatic.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\obj\Debug\WinForms_05_RunStatic.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\obj\Debug\MyRunStatic.RunStatic.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\obj\Debug\WinForms_05_RunStatic.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\obj\Debug\WinForms_05_RunStatic.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\05_RunStatic\obj\Debug\WinForms_05_RunStatic.pdb

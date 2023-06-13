@@ -1,0 +1,9 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\bin\Debug\06-07_Date.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\bin\Debug\06-07_Date.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\bin\Debug\06-07_Date.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\obj\Debug\06-07_Date.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\obj\Debug\_06_07_Date.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\obj\Debug\06-07_Date.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\obj\Debug\06-07_Date.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\obj\Debug\06-07_Date.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\06-07_Date\obj\Debug\_06_07_Date.DateForm.resources

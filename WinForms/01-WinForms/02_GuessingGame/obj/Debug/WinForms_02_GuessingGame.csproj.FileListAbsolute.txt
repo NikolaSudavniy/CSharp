@@ -1,0 +1,10 @@
+D:\Nikola_Sudavniy\repozitories\c_sharp_homeworks\WinForms_02_GuessingGame\bin\Debug\WinForms_02_GuessingGame.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\bin\Debug\WinForms_02_GuessingGame.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\bin\Debug\WinForms_02_GuessingGame.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\bin\Debug\WinForms_02_GuessingGame.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\obj\Debug\WinForms_02_GuessingGame.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\obj\Debug\Game.GuessingGame.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\obj\Debug\WinForms_02_GuessingGame.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\obj\Debug\WinForms_02_GuessingGame.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\obj\Debug\WinForms_02_GuessingGame.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\01-WinForms\02_GuessingGame\obj\Debug\WinForms_02_GuessingGame.pdb

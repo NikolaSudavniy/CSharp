@@ -1,0 +1,10 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\bin\Debug\QuestionaryApp.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\bin\Debug\QuestionaryApp.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\bin\Debug\QuestionaryApp.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.AddQuestionaryForm.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\QuestionaryApp\obj\Debug\QuestionaryApp.QuestionaryListForm.resources

@@ -1,0 +1,8 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\bin\Debug\ProgressBarLoader.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\bin\Debug\ProgressBarLoader.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\bin\Debug\ProgressBarLoader.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\obj\Debug\ProgressBarLoader.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\obj\Debug\ProgressBarLoader.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\obj\Debug\ProgressBarLoader.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\obj\Debug\ProgressBarLoader.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\02-WinForms\ProgressBarLoader\obj\Debug\ProgressBarLoader.pdb
