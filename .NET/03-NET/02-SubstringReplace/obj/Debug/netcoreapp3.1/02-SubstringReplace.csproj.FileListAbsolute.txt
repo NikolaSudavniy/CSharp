@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\bin\Debug\netcoreapp3.1\02-SubstringReplace.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\bin\Debug\netcoreapp3.1\02-SubstringReplace.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\bin\Debug\netcoreapp3.1\02-SubstringReplace.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\bin\Debug\netcoreapp3.1\02-SubstringReplace.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\bin\Debug\netcoreapp3.1\02-SubstringReplace.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\bin\Debug\netcoreapp3.1\02-SubstringReplace.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\obj\Debug\netcoreapp3.1\02-SubstringReplace.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\obj\Debug\netcoreapp3.1\02-SubstringReplace.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\obj\Debug\netcoreapp3.1\02-SubstringReplace.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\obj\Debug\netcoreapp3.1\02-SubstringReplace.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\02-SubstringReplace\obj\Debug\netcoreapp3.1\02-SubstringReplace.pdb

@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\bin\Debug\netcoreapp3.1\01_LineEquation.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\bin\Debug\netcoreapp3.1\01_LineEquation.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\bin\Debug\netcoreapp3.1\01_LineEquation.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\bin\Debug\netcoreapp3.1\01_LineEquation.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\bin\Debug\netcoreapp3.1\01_LineEquation.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\bin\Debug\netcoreapp3.1\01_LineEquation.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\obj\Debug\netcoreapp3.1\01_LineEquation.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\obj\Debug\netcoreapp3.1\01_LineEquation.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\obj\Debug\netcoreapp3.1\01_LineEquation.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\obj\Debug\netcoreapp3.1\01_LineEquation.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\05-ДЗ NET\01_LineEquation\obj\Debug\netcoreapp3.1\01_LineEquation.pdb

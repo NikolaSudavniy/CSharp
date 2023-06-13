@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\obj\Debug\netcoreapp3.1\01_Fraction.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\obj\Debug\netcoreapp3.1\01_Fraction.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\obj\Debug\netcoreapp3.1\01_Fraction.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\bin\Debug\netcoreapp3.1\01_Fraction.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\bin\Debug\netcoreapp3.1\01_Fraction.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\bin\Debug\netcoreapp3.1\01_Fraction.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\bin\Debug\netcoreapp3.1\01_Fraction.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\bin\Debug\netcoreapp3.1\01_Fraction.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\bin\Debug\netcoreapp3.1\01_Fraction.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\obj\Debug\netcoreapp3.1\01_Fraction.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_Fraction\obj\Debug\netcoreapp3.1\01_Fraction.pdb

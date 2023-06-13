@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\bin\Debug\netcoreapp3.1\03_DateDifference.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\bin\Debug\netcoreapp3.1\03_DateDifference.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\bin\Debug\netcoreapp3.1\03_DateDifference.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\bin\Debug\netcoreapp3.1\03_DateDifference.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\bin\Debug\netcoreapp3.1\03_DateDifference.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\bin\Debug\netcoreapp3.1\03_DateDifference.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\obj\Debug\netcoreapp3.1\03_DateDifference.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\obj\Debug\netcoreapp3.1\03_DateDifference.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\obj\Debug\netcoreapp3.1\03_DateDifference.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\obj\Debug\netcoreapp3.1\03_DateDifference.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\03_DateDifference\obj\Debug\netcoreapp3.1\03_DateDifference.pdb

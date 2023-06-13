@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\bin\Debug\netcoreapp3.1\02_Complex.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\bin\Debug\netcoreapp3.1\02_Complex.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\bin\Debug\netcoreapp3.1\02_Complex.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\bin\Debug\netcoreapp3.1\02_Complex.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\bin\Debug\netcoreapp3.1\02_Complex.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\bin\Debug\netcoreapp3.1\02_Complex.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\obj\Debug\netcoreapp3.1\02_Complex.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\obj\Debug\netcoreapp3.1\02_Complex.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\obj\Debug\netcoreapp3.1\02_Complex.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\obj\Debug\netcoreapp3.1\02_Complex.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\02_Complex\obj\Debug\netcoreapp3.1\02_Complex.pdb

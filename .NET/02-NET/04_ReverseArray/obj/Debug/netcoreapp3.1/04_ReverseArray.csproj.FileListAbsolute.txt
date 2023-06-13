@@ -1,0 +1,11 @@
+C:\Users\Коля\source\repos\04_ReverseArray\bin\Debug\netcoreapp3.1\04_ReverseArray.exe
+C:\Users\Коля\source\repos\04_ReverseArray\bin\Debug\netcoreapp3.1\04_ReverseArray.deps.json
+C:\Users\Коля\source\repos\04_ReverseArray\bin\Debug\netcoreapp3.1\04_ReverseArray.runtimeconfig.json
+C:\Users\Коля\source\repos\04_ReverseArray\bin\Debug\netcoreapp3.1\04_ReverseArray.runtimeconfig.dev.json
+C:\Users\Коля\source\repos\04_ReverseArray\bin\Debug\netcoreapp3.1\04_ReverseArray.dll
+C:\Users\Коля\source\repos\04_ReverseArray\bin\Debug\netcoreapp3.1\04_ReverseArray.pdb
+C:\Users\Коля\source\repos\04_ReverseArray\obj\Debug\netcoreapp3.1\04_ReverseArray.csprojAssemblyReference.cache
+C:\Users\Коля\source\repos\04_ReverseArray\obj\Debug\netcoreapp3.1\04_ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Коля\source\repos\04_ReverseArray\obj\Debug\netcoreapp3.1\04_ReverseArray.AssemblyInfo.cs
+C:\Users\Коля\source\repos\04_ReverseArray\obj\Debug\netcoreapp3.1\04_ReverseArray.dll
+C:\Users\Коля\source\repos\04_ReverseArray\obj\Debug\netcoreapp3.1\04_ReverseArray.pdb

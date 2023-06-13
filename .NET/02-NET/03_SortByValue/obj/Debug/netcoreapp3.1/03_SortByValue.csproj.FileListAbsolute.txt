@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\bin\Debug\netcoreapp3.1\03_SortByValue.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\bin\Debug\netcoreapp3.1\03_SortByValue.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\bin\Debug\netcoreapp3.1\03_SortByValue.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\bin\Debug\netcoreapp3.1\03_SortByValue.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\bin\Debug\netcoreapp3.1\03_SortByValue.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\bin\Debug\netcoreapp3.1\03_SortByValue.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\obj\Debug\netcoreapp3.1\03_SortByValue.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\obj\Debug\netcoreapp3.1\03_SortByValue.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\obj\Debug\netcoreapp3.1\03_SortByValue.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\obj\Debug\netcoreapp3.1\03_SortByValue.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\03_SortByValue\obj\Debug\netcoreapp3.1\03_SortByValue.pdb

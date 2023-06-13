@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\obj\Debug\netcoreapp3.1\05_Calculator.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\obj\Debug\netcoreapp3.1\05_Calculator.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\obj\Debug\netcoreapp3.1\05_Calculator.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\bin\Debug\netcoreapp3.1\05_Calculator.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\bin\Debug\netcoreapp3.1\05_Calculator.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\bin\Debug\netcoreapp3.1\05_Calculator.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\bin\Debug\netcoreapp3.1\05_Calculator.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\bin\Debug\netcoreapp3.1\05_Calculator.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\bin\Debug\netcoreapp3.1\05_Calculator.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\obj\Debug\netcoreapp3.1\05_Calculator.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\03-ДЗ NET\05_Calculator\obj\Debug\netcoreapp3.1\05_Calculator.pdb

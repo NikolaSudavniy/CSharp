@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\bin\Debug\netcoreapp3.1\01_StudentBook.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\bin\Debug\netcoreapp3.1\01_StudentBook.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\bin\Debug\netcoreapp3.1\01_StudentBook.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\bin\Debug\netcoreapp3.1\01_StudentBook.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\bin\Debug\netcoreapp3.1\01_StudentBook.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\bin\Debug\netcoreapp3.1\01_StudentBook.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\obj\Debug\netcoreapp3.1\01_StudentBook.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\obj\Debug\netcoreapp3.1\01_StudentBook.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\obj\Debug\netcoreapp3.1\01_StudentBook.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\obj\Debug\netcoreapp3.1\01_StudentBook.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\04-ДЗ NET\01_StudentBook\obj\Debug\netcoreapp3.1\01_StudentBook.pdb

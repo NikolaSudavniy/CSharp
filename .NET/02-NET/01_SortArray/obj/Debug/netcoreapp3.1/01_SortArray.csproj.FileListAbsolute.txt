@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\bin\Debug\netcoreapp3.1\01_SortArray.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\bin\Debug\netcoreapp3.1\01_SortArray.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\bin\Debug\netcoreapp3.1\01_SortArray.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\bin\Debug\netcoreapp3.1\01_SortArray.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\bin\Debug\netcoreapp3.1\01_SortArray.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\bin\Debug\netcoreapp3.1\01_SortArray.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\obj\Debug\netcoreapp3.1\01_SortArray.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\obj\Debug\netcoreapp3.1\01_SortArray.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\obj\Debug\netcoreapp3.1\01_SortArray.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\obj\Debug\netcoreapp3.1\01_SortArray.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\02-ДЗ NET\01_SortArray\obj\Debug\netcoreapp3.1\01_SortArray.pdb

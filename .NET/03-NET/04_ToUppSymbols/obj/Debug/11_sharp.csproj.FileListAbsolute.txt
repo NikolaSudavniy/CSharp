@@ -1,0 +1,6 @@
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c_sharp_homeworks\11_sharp\bin\Debug\11_sharp.exe.config
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c_sharp_homeworks\11_sharp\bin\Debug\11_sharp.exe
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c_sharp_homeworks\11_sharp\bin\Debug\11_sharp.pdb
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c_sharp_homeworks\11_sharp\obj\Debug\11_sharp.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c_sharp_homeworks\11_sharp\obj\Debug\11_sharp.exe
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c_sharp_homeworks\11_sharp\obj\Debug\11_sharp.pdb

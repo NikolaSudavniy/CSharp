@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\bin\Debug\netcoreapp3.1\01_ComparePopulation.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\bin\Debug\netcoreapp3.1\01_ComparePopulation.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\bin\Debug\netcoreapp3.1\01_ComparePopulation.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\bin\Debug\netcoreapp3.1\01_ComparePopulation.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\bin\Debug\netcoreapp3.1\01_ComparePopulation.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\bin\Debug\netcoreapp3.1\01_ComparePopulation.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\obj\Debug\netcoreapp3.1\01_ComparePopulation.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\obj\Debug\netcoreapp3.1\01_ComparePopulation.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\obj\Debug\netcoreapp3.1\01_ComparePopulation.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\obj\Debug\netcoreapp3.1\01_ComparePopulation.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\06-ДЗ NET\01_ComparePopulation\obj\Debug\netcoreapp3.1\01_ComparePopulation.pdb

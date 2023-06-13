@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\bin\Debug\netcoreapp3.1\01_MultiDimensionalArray.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\bin\Debug\netcoreapp3.1\01_MultiDimensionalArray.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\bin\Debug\netcoreapp3.1\01_MultiDimensionalArray.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\bin\Debug\netcoreapp3.1\01_MultiDimensionalArray.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\bin\Debug\netcoreapp3.1\01_MultiDimensionalArray.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\bin\Debug\netcoreapp3.1\01_MultiDimensionalArray.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\obj\Debug\netcoreapp3.1\01_MultiDimensionalArray.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\obj\Debug\netcoreapp3.1\01_MultiDimensionalArray.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\obj\Debug\netcoreapp3.1\01_MultiDimensionalArray.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\obj\Debug\netcoreapp3.1\01_MultiDimensionalArray.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\08-ДЗ NET\01_MultiDimensionalArray\obj\Debug\netcoreapp3.1\01_MultiDimensionalArray.pdb

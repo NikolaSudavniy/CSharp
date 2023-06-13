@@ -1,0 +1,22 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-NET & C#\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.deps.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.runtimeconfig.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.runtimeconfig.dev.json
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\bin\Debug\netcoreapp3.1\04_SwitzerlandFlag.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.AssemblyInfoInputs.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.AssemblyInfo.cs
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.dll
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\01-ДЗ NET\ДЗ NET 01\04_SwitzerlandFlag\obj\Debug\netcoreapp3.1\04_SwitzerlandFlag.pdb
