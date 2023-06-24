@@ -1,0 +1,16 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\bin\Debug\Explorer.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\bin\Debug\Explorer.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\bin\Debug\Explorer.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\obj\Debug\Explorer.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\obj\Debug\Explorer.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\Explorer\obj\Debug\Explorer.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\obj\Debug\Explorer.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\obj\Debug\Explorer.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\obj\Debug\Explorer.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\bin\Debug\Explorer.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\bin\Debug\Explorer.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\02_Explorer\bin\Debug\Explorer.pdb

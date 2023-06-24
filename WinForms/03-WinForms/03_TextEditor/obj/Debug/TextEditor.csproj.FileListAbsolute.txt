@@ -1,0 +1,8 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\bin\Debug\TextEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\bin\Debug\TextEditor.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\obj\Debug\TextEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\TextEditor\obj\Debug\TextEditor.pdb

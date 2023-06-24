@@ -1,0 +1,16 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\bin\Debug\TextFileEditor.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\bin\Debug\TextFileEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\bin\Debug\TextFileEditor.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\obj\Debug\TextFileEditor.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\obj\Debug\TextFileEditor.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\obj\Debug\TextFileEditor.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\obj\Debug\TextFileEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\TextFileEditor\obj\Debug\TextFileEditor.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\bin\Debug\TextFileEditor.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\bin\Debug\TextFileEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\bin\Debug\TextFileEditor.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\obj\Debug\TextFileEditor.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\obj\Debug\TextFileEditor.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\obj\Debug\TextFileEditor.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\obj\Debug\TextFileEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\04-WinForms\01_TextFileEditor\obj\Debug\TextFileEditor.pdb

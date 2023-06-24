@@ -1,0 +1,8 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\bin\Debug\FileFinder.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\bin\Debug\FileFinder.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\bin\Debug\FileFinder.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\obj\Debug\FileFinder.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\obj\Debug\FileFinder.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\obj\Debug\FileFinder.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\obj\Debug\FileFinder.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\FileFinder\obj\Debug\FileFinder.pdb

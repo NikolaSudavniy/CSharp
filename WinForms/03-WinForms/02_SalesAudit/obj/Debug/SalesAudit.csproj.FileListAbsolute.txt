@@ -1,0 +1,8 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\bin\Debug\SalesAudit.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\bin\Debug\SalesAudit.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\bin\Debug\SalesAudit.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\obj\Debug\SalesAudit.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\obj\Debug\SalesAudit.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\obj\Debug\SalesAudit.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\obj\Debug\SalesAudit.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\03-WinForms\SalesAudit\obj\Debug\SalesAudit.pdb
