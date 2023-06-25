@@ -1,0 +1,9 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\obj\Debug\FigureDrawer.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\obj\Debug\FigureDrawer.DrawerForm.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\obj\Debug\FigureDrawer.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\obj\Debug\FigureDrawer.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\bin\Debug\FigureDrawer.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\bin\Debug\FigureDrawer.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\bin\Debug\FigureDrawer.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\obj\Debug\FigureDrawer.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\06-WinForms\FigureDrawer\obj\Debug\FigureDrawer.pdb

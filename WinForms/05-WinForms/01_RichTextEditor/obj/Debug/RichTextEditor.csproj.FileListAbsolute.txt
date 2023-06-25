@@ -1,0 +1,11 @@
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\bin\Debug\RichTextEditor.exe.config
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\bin\Debug\RichTextEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\bin\Debug\RichTextEditor.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.Properties.Resources.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.exe
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.pdb
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.TextEditorForm.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.DevModeForm.resources
+D:\Nikola_Sudavniy\!!!!!!!!!!!!!!!!!!!!!!!!!!Долги\02-NET\WinForms\05-WinForms\RichTextEditor\obj\Debug\RichTextEditor.Web.resources
