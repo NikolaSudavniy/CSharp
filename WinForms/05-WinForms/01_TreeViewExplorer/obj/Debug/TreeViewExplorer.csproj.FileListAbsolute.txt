@@ -1,0 +1,9 @@
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\bin\Debug\TreeViewExplorer.exe.config
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\bin\Debug\TreeViewExplorer.exe
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\bin\Debug\TreeViewExplorer.pdb
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\obj\Debug\TreeViewExplorer.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\obj\Debug\TreeViewExplorer.Properties.Resources.resources
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\obj\Debug\TreeViewExplorer.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\obj\Debug\TreeViewExplorer.exe
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\obj\Debug\TreeViewExplorer.pdb
+D:\Nikola_Sudavniy\Долги\02-NET\WinForms\05-WinForms\TreeViewExplorer\obj\Debug\TreeViewExplorer.ExplorerForm.resources
