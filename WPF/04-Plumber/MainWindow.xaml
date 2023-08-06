@@ -1,0 +1,83 @@
+﻿<Window x:Class="Plumber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Plumber.ViewModel"
+        mc:Ignorable="d"
+        Title="Plumber" Height="600" Width="490">
+
+    <Window.DataContext>
+        <local:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid Width="auto" Height="auto">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Grid.Row="0" Grid.Column="0" Command="{Binding OpenCrane}">
+            <Image Source="/Images/Crane.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Image Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3" Source="/Images/GameName.jpg" Stretch="Fill"/>
+
+        <Button Grid.Row="1" Grid.Column="0" CommandParameter="10" Command="{Binding TurnStraight}">
+            <Image Source="{Binding Path=Image10, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="1" CommandParameter="11" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image11, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="2" CommandParameter="12" Command="{Binding TurnStraight}">
+            <Image Source="{Binding Path=Image12, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="3" CommandParameter="13" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image13, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="2" Grid.Column="0" CommandParameter="20" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image20, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="2" Grid.Column="1" CommandParameter="21" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image21, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="2" Grid.Column="2" CommandParameter="22" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image22, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="2" Grid.Column="3" CommandParameter="23" Command="{Binding TurnStraight}">
+            <Image Source="{Binding Path=Image23, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Image  Grid.Row="3" Grid.Column="0" Source="{Binding Path=Image30, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+
+        <Button Grid.Row="3" Grid.Column="1" CommandParameter="31" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image31, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="3" Grid.Column="2" CommandParameter="32" Command="{Binding TurnStraight}">
+            <Image Source="{Binding Path=Image32, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Button Grid.Row="3" Grid.Column="3" CommandParameter="33" Command="{Binding TurnTurned}">
+            <Image Source="{Binding Path=Image33, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+        </Button>
+
+        <Image Grid.Row="4" Grid.ColumnSpan="4" Source="{Binding Path=FooterPipe, UpdateSourceTrigger=PropertyChanged}" Stretch="Fill"/>
+    </Grid>
+</Window>

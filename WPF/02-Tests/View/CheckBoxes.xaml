@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="Tests.View.CheckBoxes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tests.ViewModel"
+        mc:Ignorable="d"
+       d:DesignHeight="150" d:DesignWidth="400">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Width="380">
+            <Label.Content>
+                <TextBlock TextWrapping="Wrap" Text="{Binding Path=Question}"></TextBlock>
+            </Label.Content>
+        </Label>
+
+        <ListView Grid.Row="1">
+            <CheckBox Content="{Binding Path=Answers[0]}" IsChecked="{Binding AnswersSelectInfo[0], Mode=TwoWay}"></CheckBox>
+            <CheckBox Content="{Binding Path=Answers[1]}" IsChecked="{Binding AnswersSelectInfo[1], Mode=TwoWay}"></CheckBox>
+            <CheckBox Content="{Binding Path=Answers[2]}" IsChecked="{Binding AnswersSelectInfo[2], Mode=TwoWay}"></CheckBox>
+            <CheckBox Content="{Binding Path=Answers[3]}" IsChecked="{Binding AnswersSelectInfo[3], Mode=TwoWay}"></CheckBox>
+        </ListView>
+    </Grid>
+</UserControl>

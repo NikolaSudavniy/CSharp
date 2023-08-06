@@ -1,0 +1,15 @@
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\bin\Debug\Plumber.exe.config
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\bin\Debug\Plumber.exe
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\bin\Debug\Plumber.pdb
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\MainWindow.g.cs
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\App.g.cs
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber_MarkupCompile.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber_MarkupCompile.lref
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\MainWindow.baml
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber.g.resources
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber.Properties.Resources.resources
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber.exe
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\Plumber\obj\Debug\Plumber.pdb

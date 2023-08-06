@@ -1,0 +1,55 @@
+﻿<Window x:Class="Tests.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:Tests.View"
+        xmlns:local="clr-namespace:Tests.ViewModel"
+        mc:Ignorable="d"
+        Title="Tests" Height="348.934" Width="400">
+
+    <Window.DataContext>
+        <local:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid Background="White" Margin="0,0,0,12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ToolBar Background="White" Grid.Row="0" Padding="0 10 0 10" Margin="0,0,-14,0">
+            <RadioButton CommandParameter="0" Command="{Binding ChangeThemeCommand}" Content="Math" BorderBrush="#8c8c8c" Margin="5 0" BorderThickness="1" IsChecked="True"/>
+            <RadioButton CommandParameter="1" Command="{Binding ChangeThemeCommand}" Content="English" BorderBrush="#8c8c8c" Margin="5 0" BorderThickness="1"/>
+            <RadioButton CommandParameter="2" Command="{Binding ChangeThemeCommand}" Content="Geography" BorderBrush="#8c8c8c" Margin="5 0" BorderThickness="1"/>
+        </ToolBar>
+
+        <TabControl x:Name="TabControl"
+                    ItemsSource="{Binding Items, UpdateSourceTrigger=PropertyChanged}"
+                    SelectedIndex="{Binding Path=SelectedIndex, Mode=TwoWay}" SelectionChanged="TabControl_SelectionChanged" Margin="0,38,0,27" Grid.RowSpan="2">
+            <TabControl.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#f29807" Offset="0.002"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TabControl.Background>
+
+            <TabControl.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Header}"/>
+                </DataTemplate>
+            </TabControl.ItemTemplate>
+
+            <TabControl.ContentTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <ContentControl Content="{Binding Control}" IsEnabled="{Binding UnAnswered}"/>
+                        <Button Height="23" Width="Auto" HorizontalAlignment="Stretch" Margin="283,5,10,6"
+                                Command="{Binding DataContext.ContinueCommand,RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                                Content="Next"/>
+                    </StackPanel>
+                </DataTemplate>
+            </TabControl.ContentTemplate>
+        </TabControl>
+    </Grid>
+</Window>

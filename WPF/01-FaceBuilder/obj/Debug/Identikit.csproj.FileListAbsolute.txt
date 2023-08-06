@@ -1,0 +1,36 @@
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\bin\Debug\FaceBuilder.exe.config
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\bin\Debug\FaceBuilder.exe
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\bin\Debug\FaceBuilder.pdb
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\bin\Debug\System.Windows.Interactivity.dll
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\Identikit.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\MainWindow.g.cs
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\App.g.cs
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\FaceBuilder_MarkupCompile.cache
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\FaceBuilder_MarkupCompile.lref
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\MainWindow.baml
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\FaceBuilder.g.resources
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\FaceBuilder.Properties.Resources.resources
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\Identikit.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\Identikit.csproj.CopyComplete
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\FaceBuilder.exe
+D:\Nikola_Sudavniy\repozitories\!Для Николя\WPF\FaceBuilder\obj\Debug\FaceBuilder.pdb
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\bin\Debug\FaceBuilder.exe.config
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\bin\Debug\FaceBuilder.exe
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\bin\Debug\FaceBuilder.pdb
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\bin\Debug\System.Windows.Interactivity.dll
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\Identikit.csprojAssemblyReference.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\MainWindow.g.cs
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\App.g.cs
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\FaceBuilder_MarkupCompile.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\FaceBuilder_MarkupCompile.lref
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\MainWindow.baml
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\FaceBuilder.g.resources
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\FaceBuilder.Properties.Resources.resources
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\Identikit.csproj.GenerateResource.cache
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\Identikit.csproj.CopyComplete
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\FaceBuilder.exe
+D:\Nikola_Sudavniy\Долги\02-NET\WPF\01-FaceBuilder\obj\Debug\FaceBuilder.pdb
